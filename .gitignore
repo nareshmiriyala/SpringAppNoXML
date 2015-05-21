@@ -35,6 +35,7 @@ hs_err_pid*
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea
 
 # Windows
 # =========================
@@ -45,7 +46,7 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
+idea
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -54,6 +55,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+*.iml
+*.idea
 # Windows shortcuts
 *.lnk
